@@ -1,5 +1,6 @@
 import SwiftUI
 import MetalKit
+import UniformTypeIdentifiers
 
 struct SplatViewerView: View {
     @EnvironmentObject var appState: AppState
